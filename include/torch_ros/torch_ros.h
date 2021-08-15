@@ -1,4 +1,5 @@
 #include <ros/ros.h>
+#include <torch/torch.h>
 
 class TorchRos
 {
